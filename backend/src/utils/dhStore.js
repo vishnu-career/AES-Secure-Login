@@ -1,4 +1,3 @@
-// src/utils/dhStore.js
 const SESSIONS = new Map();
 
 export function saveECDH(sessionId, ecdh) {

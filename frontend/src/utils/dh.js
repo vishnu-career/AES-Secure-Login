@@ -1,4 +1,3 @@
-// src/utils/dh.js
 import CryptoJS from "crypto-js";
 import { u8ToWordArray } from "./crypto";
 import axios from "axios";

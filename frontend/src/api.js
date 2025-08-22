@@ -1,4 +1,3 @@
-// src/api.js
 import axios from "axios";
 import { startHandshake } from "./utils/dh";
 import { encryptWithKey, decryptWithKey } from "./utils/crypto";

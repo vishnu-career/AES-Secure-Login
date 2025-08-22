@@ -1,4 +1,3 @@
-// src/routes/auth.js
 import crypto from "crypto";
 import User from "../models/User.js";
 import { decryptWithKey, encryptWithKey } from "../utils/crypto.js";

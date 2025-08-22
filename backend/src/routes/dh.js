@@ -1,6 +1,6 @@
-// src/routes/dh.js
 import crypto from "crypto";
 import { saveECDH } from "../utils/dhStore.js";
+import sequelize from "../config/db.js";
 
 async function dhRoutes(fastify) {
   // Client calls this first to start a session

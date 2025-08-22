@@ -1,4 +1,3 @@
-// src/utils/crypto.js
 import CryptoJS from "crypto-js";
 
 // Convert Uint8Array -> hex -> WordArray (CryptoJS key)

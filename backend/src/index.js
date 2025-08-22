@@ -1,4 +1,3 @@
-// src/index.js
 import "dotenv/config";
 import Fastify from "fastify";
 import cors from "@fastify/cors";
